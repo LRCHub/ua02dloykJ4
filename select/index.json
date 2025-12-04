@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Cagayake!GIRLS",
+  "base_artist": "平沢唯(CV:豊崎愛生)、秋山澪(CV:日笠陽子)、桜高軽音部、田井中律(CV:佐藤聡美)、琴吹紬(CV:寿美菜子)",
+  "createdAt": "2025-12-04T19:18:58.892094Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/01_Cagayake!GIRLS_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cagayake! GIRLS",
+      "artist": "Toyosaki Aki",
+      "has_synced": true,
+      "path": "select/02_Cagayake!_GIRLS_Toyosaki_Aki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cagayake! GIRLS [Live]",
+      "artist": "HO-KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/03_Cagayake!_GIRLS_[Live]_HO-KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cagayake! Girls (From \"K-On!\")",
+      "artist": "Sakurakou K-ON Bu",
+      "has_synced": true,
+      "path": "select/04_Cagayake!_Girls_(From__K-On!_)_Sakurakou_K-ON_Bu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cagayake! Girls",
+      "artist": "Platina Jazz",
+      "has_synced": false,
+      "path": "select/05_Cagayake!_Girls_Platina_Jazz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cagayake! Girls - 「けいおん!」より",
+      "artist": "Rasmus Faber Presents Presents platina Jazz",
+      "has_synced": false,
+      "path": "select/06_Cagayake!_Girls_-_「けいおん!」より_Rasmus_Faber_Presents_Presents_platina_Jazz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cagayake! Girls",
+      "artist": "Rasmus Faber presents Platina Jazz",
+      "has_synced": false,
+      "path": "select/07_Cagayake!_Girls_Rasmus_Faber_presents_Platina_Jazz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/08_Cagayake!GIRLS_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS [5人Ver.] [TV size Ver.]",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/09_Cagayake!GIRLS_[5人Ver.]_[TV_size_Ver.]_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS (4 Person Ver.) (TV Size Ver.)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/10_Cagayake!GIRLS_(4_Person_Ver.)_(TV_Size_Ver.)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS (5 Person Ver.) (TV Size Ver.)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/11_Cagayake!GIRLS_(5_Person_Ver.)_(TV_Size_Ver.)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS [5人Ver.]",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/12_Cagayake!GIRLS_[5人Ver.]_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cagayake! GIRLS",
+      "artist": "Houkago Tea Time: Toyosaki Aki & Hikasa Youko & Satou Satomi & Kotobuki Minako",
+      "has_synced": true,
+      "path": "select/13_Cagayake!_GIRLS_Houkago_Tea_Time__Toyosaki_Aki_&_Hikasa_Youko_&_Satou_Satomi_&_Kotobuki_Minako.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cagayake! GIRLS",
+      "artist": "Toyasaki Aki / Hisaka Youko / Satou Satomi / Kotobuki Minako",
+      "has_synced": true,
+      "path": "select/14_Cagayake!_GIRLS_Toyasaki_Aki___Hisaka_Youko___Satou_Satomi___Kotobuki_Minako.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cagayake! GIRLS (Instrumental)",
+      "artist": "Toyasaki Aki / Hisaka Youko / Satou Satomi / Kotobuki Minako",
+      "has_synced": true,
+      "path": "select/15_Cagayake!_GIRLS_(Instrumental)_Toyasaki_Aki___Hisaka_Youko___Satou_Satomi___Kotobuki_Minako.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS (Instrumental)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/16_Cagayake!GIRLS_(Instrumental)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS [Gonin Ver.]",
+      "artist": "Ho-Kago Tea Time",
+      "has_synced": true,
+      "path": "select/17_Cagayake!GIRLS_[Gonin_Ver.]_Ho-Kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cagayake!GIRLS",
+      "artist": "桜高軽音部 [平沢唯・秋山澪・田井中律・琴吹紬(CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": true,
+      "path": "select/18_Cagayake!GIRLS_桜高軽音部_[平沢唯・秋山澪・田井中律・琴吹紬(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cagayake!GIRLS",
+      "artist": "平沢唯(CV:豊崎愛生), 秋山澪(CV:日笠陽子), 桜高軽音部, 田井中律(CV:佐藤聡美), 琴吹紬(CV:寿美菜子)",
+      "has_synced": false,
+      "path": "select/pl_01_Cagayake!GIRLS_平沢唯(CV_豊崎愛生),_秋山澪(CV_日笠陽子),_桜高軽音部,_田井中律(CV_佐藤聡美),_琴吹紬(CV_寿美菜子).txt"
+    }
+  ]
+}
