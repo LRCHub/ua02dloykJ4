@@ -1,4 +1,4 @@
-# Ho-Kago Tea Time – Cagayake!GIRLS [Gonin Ver.]
+# 放課後ティータイム – Cagayake!GIRLS [5人Ver.]
 
 > **歌詞登録ステータス：同期歌詞あり**
 
