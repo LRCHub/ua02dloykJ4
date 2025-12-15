@@ -1,79 +1,65 @@
-# 平沢唯(CV:豊崎愛生), 秋山澪(CV:日笠陽子), 桜高軽音部, 田井中律(CV:佐藤聡美), 琴吹紬(CV:寿美菜子) – Cagayake!GIRLS
+# Ho-Kago Tea Time – Cagayake!GIRLS [Gonin Ver.]
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Catting Now ガチでカシマシ
-Never Ending Girls Talk
-終業チャイムまで待てない
-遅刻はしても 早退は non non non!
-精一杯 Study After School
-ドキドキが止まんない
-フルスロットルな脳内
-希望・欲望・煩悩
-リボンかけて包装
-ネタどっさり持ち寄り
-Newtype Version 打ち込み
-男子禁制のプリ帳
-恋綴った日記帳
-スカート丈2cm
-詰めたら飛ぶよ
-昨日より遠く
-一昨日よりオクターブ高く
-Jumping Now ガチで麗し
-Never Ending Girls Song Life
-日々マジライブだし 待ったなし
-早起きしても 早寝はnon non non!
-目一杯Shouting わっしょい
-ガチで素晴らし
-Never Ending Girls Song
-午後ティータイムにはもってこい
-片思いでも玉砕で Here We Go!
-歌えば Shining After School
-ふわふわ生きてるせい？
-事件ばっかしEvery Day
-微分積分は追試
-当分恋愛は中止
-二時限目には鳴くよ
-四次元だし胃袋
-ヤバ、ついに限界超
-ウェイト書いた丸秘帳
-前髪3mm
-切ったら見えた
-答案真っ白でも
-未来がバラ色ならよくね？
-Chatting Now ガチでカシマシ
-Never Ending Girls Talk
-終業チャイムまで待てない
-遅刻はしても 早退は non non non!
-精一杯 Study Enjoy
-ガチで素晴らし
-Never Ending Girls Song
-午後ティータイムにはもってこい
-型破りなコードでも Here We Go!
-歌えば Shining After School
-( う～ ゆい! )
-( あずさ! )
-( みお! )
-( りーつ! )
-( むぎ! )
-永遠にループする
-サイズ down up down up
-でも気分いつでも up up up ＆ up
-集まるだけで笑えるなんて
-歌うだけで幸せなんて
-かなり地球に優しいエコじゃん
-Jumping Now ガチで麗し
-Never Ending Girls Song Life
-日々マジライブだし 待ったなし
-早起きしても 早寝はnon non non!
-目一杯shouting わっしょい
-ガチで素晴らし Never Ending
-Girls Song
-午後ティータイムにはもってこい
-片思いでも 玉砕で here we go!
-歌えばshouting After school
-So
-Shining shiner shinyest
-Girls be ambitious & shine
+```lrc
+[00:07.08] Chatting Now
+[00:08.03] ガチでカシマシ Never Ending Girls' Talk
+[00:11.06] 就業チャイムまで待てない
+[00:13.05] 遅刻はしても早退はNon Non Non!
+[00:16.09] 精一杯Study After School
+[00:26.59] 
+[00:30.02] ドキドキが止まんない フルスロットルな脳内
+[00:36.06] 希望・欲望・煩悩 リボンかけて包装
+[00:42.07] ネタどっさり持ち寄り New Type Version打ち込み
+[00:47.05] 男子禁制のプリ帳 恋綴った日記帳
+[00:55.05] 
+[00:53.06] スカート丈２ｃｍ 詰めたら跳ぶよ
+[00:58.00] 昨日より遠く おとといよりオクターブ高く
+[01:08.00] 
+[01:05.07] Jumping Now
+[01:06.03] ガチでウルワシ Never Ending Girls' Life
+[01:09.00] 日々マジ ライブだし待ったなし
+[01:11.07] 早起きしても早寝はNon Non Non!
+[01:14.05] 目一杯Shouting ワッショイ
+[01:17.02] ガチでスバラシ Never Ending Girls' Song
+[01:20.00] 午後ティータイムには持ってこい
+[01:23.05] 片想いでも玉砕でHere We Go!
+[01:25.01] 歌えばShining After School
+[01:36.51] 
+[01:34.07] ふわふわ生きてるせい？ 事件ばっかしエブリデイ
+[01:39.01] 微分積分は追試 当分恋愛は中止
+[01:45.06] 二時限目には鳴くよ 四次元だし胃袋
+[01:50.08] ヤバ、ついに限界超（ちょう） ウェイト書いた〇秘*帳
+[02:03.08] 
+[01:56.09] 前髪３ｍｍ 切ったら見えた
+[02:02.07] 答案真っ白でも 未来がバラ色ならよくね？
+[02:12.07] 
+[02:08.00] Chatting Now
+[02:09.03] ガチでカシマシ Never Ending Girls' Talk
+[02:12.01] 就業チャイムまで待てない
+[02:15.01] 遅刻はしても早退はNon Non Non!
+[02:18.08] 精一杯Study エンジョイ
+[02:20.00] ガチでスバラシ Never Ending Girls' Song
+[02:23.05] 午後ティータイムには持ってこい
+[02:26.05] 型破りなコードでもHere We Go!
+[02:29.05] 歌えばShining After School
+[02:40.55] 
+[02:50.05] 永遠にループする
+[02:53.08] サイズ down up down up
+[02:56.02] でも気分いつでも
+[02:59.02] Up up up & up
+[03:01.03] 集まるだけで笑えるなんて
+[03:04.08] 歌うだけで幸せなんて
+[03:08.03] ・・・かなり地球に優しいエコじゃん
+[03:16.53] 
+[03:13.00] Jumping Now
+[03:15.02] ガチでウルワシ Never Ending Girls' Life
+[03:19.03] 日々マジ ライブだし待ったなし
+[03:21.08] 早起きしても早寝はNon Non Non!
+[03:24.07] 目一杯Shouting ワッショイ
+[03:27.05] ガチでスバラシ Never Ending Girls' Song
+[03:30.09] 午後ティータイムには持ってこい
+[03:33.03] 片想いでも玉砕でHere We Go!
+[03:35.07] 歌えばShining After School
 ```
